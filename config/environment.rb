@@ -1,3 +1,5 @@
+require 'pry'
+
 # Load the Rails application.
 require_relative 'application'
 

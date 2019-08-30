@@ -1,4 +1,10 @@
 source 'https://rubygems.org'
+gem 'dotenv-rails', groups: [:development, :test]
+gem 'pry'
+
+gem 'omniauth'
+gem 'omniauth-facebook'
+
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails'
